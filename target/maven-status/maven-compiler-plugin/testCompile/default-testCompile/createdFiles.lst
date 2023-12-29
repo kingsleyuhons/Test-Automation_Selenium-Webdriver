@@ -1,0 +1,11 @@
+Step_definition\ValidLogin.class
+Step_definition\RunnerClass.class
+Step_definition\Invaidlogin1.class
+Pages\UpdateEmailAddress.class
+Step_definition\common.class
+Step_definition\NewUser.class
+Step_definition\assertlogoandcartbuttononhomepage.class
+Step_definition\Invalidlogin3.class
+Step_definition\Invalidlogin2.class
+Pages\CreateNewUserPage.class
+Step_definition\UpdateAddress.class
