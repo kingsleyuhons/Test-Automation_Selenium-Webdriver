@@ -23,7 +23,7 @@ To set up and run the test suite locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/kingsleyuhons/Test-Automation_Selenium-Webdriver.git
+   git clone https://github.com/kingsleyuhons/Test-Automation_Selenium-Webdriver.git
    cd Test-Automation_Selenium-Webdriver
    ```
 2. **Ensure Java and Maven are installed:**
